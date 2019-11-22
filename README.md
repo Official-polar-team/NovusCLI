@@ -1,0 +1,2 @@
+# NovusCLI
+Proper APT replacement
