@@ -1,0 +1,11 @@
+[package]
+name = "novuscli"
+version = "0.1.0"
+authors = ["Diego Magdaleno <diegomagdaleno@protonmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+indicatif = "0.13.0"
+console = "0.9.1"
