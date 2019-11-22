@@ -1,0 +1,12 @@
+/Users/dsmc/Documents/Projects/NovusCLI/novuscli/target/debug/deps/console-ce751a1a26438f11.rmeta: /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/dsmc/Documents/Projects/NovusCLI/novuscli/target/debug/deps/libconsole-ce751a1a26438f11.rlib: /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/dsmc/Documents/Projects/NovusCLI/novuscli/target/debug/deps/console-ce751a1a26438f11.d: /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs /Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs
+
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/lib.rs:
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/common_term.rs:
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/kb.rs:
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/term.rs:
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/unix_term.rs:
+/Users/dsmc/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.9.1/src/utils.rs:
