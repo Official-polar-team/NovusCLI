@@ -21,6 +21,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "colored"
+version = "1.9.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+dependencies = [
+ "atty 0.2.13 (registry+https://github.com/rust-lang/crates.io-index)",
+ "lazy_static 1.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "winapi 0.3.8 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "console"
 version = "0.9.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -65,6 +75,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 name = "novuscli"
 version = "0.1.0"
 dependencies = [
+ "colored 1.9.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "console 0.9.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "indicatif 0.13.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
@@ -122,6 +133,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [metadata]
 "checksum atty 0.2.13 (registry+https://github.com/rust-lang/crates.io-index)" = "1803c647a3ec87095e7ae7acfca019e98de5ec9a7d01343f611cf3152ed71a90"
 "checksum clicolors-control 1.0.1 (registry+https://github.com/rust-lang/crates.io-index)" = "90082ee5dcdd64dc4e9e0d37fbf3ee325419e39c0092191e0393df65518f741e"
+"checksum colored 1.9.0 (registry+https://github.com/rust-lang/crates.io-index)" = "433e7ac7d511768127ed85b0c4947f47a254131e37864b2dc13f52aa32cd37e5"
 "checksum console 0.9.1 (registry+https://github.com/rust-lang/crates.io-index)" = "f5d540c2d34ac9dd0deb5f3b5f54c36c79efa78f6b3ad19106a554d07a7b5d9f"
 "checksum encode_unicode 0.3.6 (registry+https://github.com/rust-lang/crates.io-index)" = "a357d28ed41a50f9c765dbfe56cbc04a64e53e5fc58ba79fbc34c10ef3df831f"
 "checksum indicatif 0.13.0 (registry+https://github.com/rust-lang/crates.io-index)" = "8572bccfb0665e70b7faf44ee28841b8e0823450cd4ad562a76b5a3c4bf48487"

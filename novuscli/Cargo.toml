@@ -8,4 +8,5 @@ edition = "2018"
 
 [dependencies]
 indicatif = "0.13.0"
-console = "0.9.1"
+console = "0.9.1"   
+colored = "1.9"
